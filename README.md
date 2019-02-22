@@ -13,4 +13,20 @@ The World Bank EdStats All Indicator Query holds over 4,000 internationally comp
 
 We will upload the dataset to be used during the challenge on Friday, February 22nd.
 
+## Team Repository Links
+[QE-C1]  
+[QE-C2]  
+[QE-C3]  
+[QE-C4]  
+[QE-P1]  
+[QE-P2]  
+[QE-P3]  
+
+[QE-C1]: https://github.com/CharlestonDigitalHubHackathon/QE-C1
+[QE-C2]: https://github.com/CharlestonDigitalHubHackathon/QE-C2
+[QE-C3]: https://github.com/CharlestonDigitalHubHackathon/QE-C3
+[QE-C4]: https://github.com/CharlestonDigitalHubHackathon/QE-C4
+[QE-P1]: https://github.com/CharlestonDigitalHubHackathon/QE-P1
+[QE-P2]: https://github.com/CharlestonDigitalHubHackathon/QE-P2
+[QE-P3]: https://github.com/CharlestonDigitalHubHackathon/QE-P3
 [Quality Education]: https://www.un.org/sustainabledevelopment/education/
